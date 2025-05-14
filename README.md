@@ -1,8 +1,27 @@
-<!-- Banner or GIF (optional, can use shields.io or a static image) -->
+<!-- Banner / Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhishek+%F0%9F%91%8B;Student+at+PICT%2C+Pune;Backend+%7C+Fullstack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhishek+%F0%9F%91%8B;Student+at+PICT%2C+Pune;Backend+%7C+Fullstack+Enthusiast;Football+and+Real+Madrid+Fan+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
+<!-- Football Legends Row -->
+
+<!-- Coding GIFs Row -->
+<div align="center">
+  <img alt="Coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGF2cHM3MnJ5cmcyMW82Z3A2YW9nc210ZHc5Z2VqZTRzY2Nodnl1ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/cf8Z7XMlx6gLhH5OkK/giphy.gif">
+</div>
+
+<p align="center">
+  <!-- Ronaldo SIUU celebration -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JqZ3l2dWJmenV1YnZxem8zNmVkbDBiYXB6ZzNzZGI0MjloZW5yZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/r1IMdmkhUcpzy/giphy.gif" width="110" title="Ronaldo SIU"/>
+  <!-- Messi Dribbling -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTB1eDQycmJyM3J6ejk3ZGJiZXl6bmR3OXE4bTR1cXVpdzZwZTN6MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WzR8zb0PN6bUmfz4DW/giphy.gif" width="110" title="Messi Dribbling"/>
+  <!-- Real Madrid Logo -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h1OHZ3YXFvZzZocXRpMW5raHlzanM5aXFmaHA3ZWY4ZXJzeTdxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ocAzqRep3bLitRTmKP/giphy.gif" width="90" title="Real Madrid"/>
+  <!-- Goal Celebration -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk2cGxzdXFhcTV5bHlsZHljanhlejVpZXpicnFjcDViaHJtaHo2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hryis7A55UXZNCUTNA/giphy.gif" width="110" title="Goal Celebration"/>
+  <!-- Football Juggle -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRzbWVicmFuaXZjeGE0bGF2M3gyMGgwaGYzazdpeW03aTBjNDVqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lvSkyrjKpPFJnczLrU/giphy.gif" width="110" title="Football Juggle"/>
+</p>
 ---
 
 ### 👋 About Me
@@ -10,21 +29,32 @@
 - 🎓 Student at **Pune Institute Of Computer Technology**
 - 💻 Passionate about **Backend** & **Fullstack** development
 - 🌱 Currently learning **Node.js**, **TypeScript**, and scalable backend systems
+- ⚽ Huge **football** fan (Hala Madrid! 🤍💛), Messi & Ronaldo admirer
 - 🚀 Love building projects and collaborating on open source
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishekk31/) <!-- (update if you have one) -->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/abhishekk31/)
 
 ---
 
 ### 🛠️ Tech Stack
 
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <!-- Node.js -->
+  <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="60" title="Node.js"/>
+  <!-- TypeScript -->
+  <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" title="TypeScript"/>
+  <!-- MongoDB -->
+  <img src="https://media.giphy.com/media/4Zgy9wQqXv0RGSZlYt/giphy.gif" width="60" title="MongoDB"/>
+  <!-- Express.js (no official GIF, using coding GIF) -->
+  <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="Express.js"/>
+  <!-- Python -->
+  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="60" title="Python"/>
+  <!-- HTML5 -->
+  <img src="https://media.giphy.com/media/Sr8xDpMwVKOHUWDVRD/giphy.gif" width="60" title="HTML5"/>
+  <!-- Git -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="Git"/>
+  <!-- Linux -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h5d3Z3d3R5a2Nrc3YyZ2N2a2h2b3F5Z2ZtYjB6d3d6a3B2Y2h1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1kJ1bA7Y5bOqQ/giphy.gif" width="60" title="Linux"/>
+</p>
 
 ---
 
