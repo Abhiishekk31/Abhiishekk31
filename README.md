@@ -1,6 +1,6 @@
 <!-- Banner / Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhishek+%F0%9F%91%8B;Student+at+PICT%2C+Pune;Backend+%7C+Fullstack+Enthusiast;Football+and+Real+Madrid+Fan+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhishek+%F0%9F%91%8B;Student+at+PICT%2C+Pune;Backend+%7C+Fullstack+Enthusiast;HALA+MADRID!!+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <!-- Football Legends Row -->
