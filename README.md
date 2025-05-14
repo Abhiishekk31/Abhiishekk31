@@ -18,11 +18,11 @@
   <!-- Real Madrid Logo -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2h1OHZ3YXFvZzZocXRpMW5raHlzanM5aXFmaHA3ZWY4ZXJzeTdxdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ocAzqRep3bLitRTmKP/giphy.gif" width="90" title="Real Madrid"/>
   <!-- Goal Celebration -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHk2cGxzdXFhcTV5bHlsZHljanhlejVpZXpicnFjcDViaHJtaHo2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hryis7A55UXZNCUTNA/giphy.gif" width="110" title="Goal Celebration"/>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmR1amRkdzBoMHhwenNqcnRqaWxpMTU3M212NmplMjRvMWp6Y2RqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j8b1HyKmKxPtTDQ0m6/giphy.gif" width="110" title="Goal Celebration"/>
   <!-- Football Juggle -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajRzbWVicmFuaXZjeGE0bGF2M3gyMGgwaGYzazdpeW03aTBjNDVqNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lvSkyrjKpPFJnczLrU/giphy.gif" width="110" title="Football Juggle"/>
 </p>
----
 
 ### 👋 About Me
 
