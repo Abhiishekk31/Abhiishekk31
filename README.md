@@ -80,6 +80,10 @@
 
 ### 📂 Featured Projects
 
+<div align="center">
+  <img alt="Coding" width="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExem13cmpyczByMnhqcXVmNHB6cGg5aDhycHdqYXcydHc3b2Y1bHE0biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif">
+</div>
+
 - [AcadPay-Frontend](https://github.com/Abhiishekk31/AcadPay-Frontend) & [AcadPay-backend](https://github.com/Abhiishekk31/AcadPay-backend)  
   <sub>Academic payment management system (TypeScript, Node.js)</sub>
 - [mini-project](https://github.com/Abhiishekk31/mini-project)  
