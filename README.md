@@ -1,6 +1,6 @@
 <!-- Banner / Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhishek+%F0%9F%91%8B;Student+at+PICT%2C+Pune;Backend+%7C+Fullstack+Enthusiast;HALA+MADRID!!+%F0%9F%8F%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=1F75FE&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Abhishek+%F0%9F%91%8B;Student+at+PICT%2C+Pune;Backend+%7C+Fullstack+Enthusiast;Football+and+Real+Madrid+Fan+%F0%9F%8F%86" alt="Typing SVG" />
 </p>
 
 <!-- Football Legends Row -->
@@ -35,6 +35,8 @@
 
 ---
 
+
+
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -43,7 +45,7 @@
   <!-- TypeScript -->
   <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="60" title="TypeScript"/>
   <!-- MongoDB -->
-  <img src="https://media.giphy.com/media/4Zgy9wQqXv0RGSZlYt/giphy.gif" width="60" title="MongoDB"/>
+  <img src="https://img.shields.io/badge/-Express.js-000?style=flat&logo=express&logoColor=white" width="60" title="MongoDB"/>
   <!-- Express.js (no official GIF, using coding GIF) -->
   <img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="60" title="Express.js"/>
   <!-- Python -->
@@ -53,8 +55,9 @@
   <!-- Git -->
   <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="Git"/>
   <!-- Linux -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2h5d3Z3d3R5a2Nrc3YyZ2N2a2h2b3F5Z2ZtYjB6d3d6a3B2Y2h1NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1kJ1bA7Y5bOqQ/giphy.gif" width="60" title="Linux"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" width="60" title="Linux"/>
 </p>
+
 
 ---
 
